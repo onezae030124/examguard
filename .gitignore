@@ -1,0 +1,8 @@
+data/
+runs/
+results/
+print_sheets/
+photos/
+*.pt
+*.zip
+__pycache__/

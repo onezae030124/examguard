@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers>=4.45
+peft>=0.12
+accelerate
+bitsandbytes
+kornia>=0.7.1
+datasets
+pillow
+numpy
+pandas
+tqdm
+PyMuPDF
+requests
+huggingface_hub
